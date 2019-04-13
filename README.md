@@ -79,8 +79,10 @@
  * 
  */
  
- you can call me for ....
- G-mail : alimoriyan@gmail.com
- Pnumber : +98 910 924 0293
- instagram : ali_moriyan
- GitHub page : AliMoriyan 
+ /**
+ * you can call me for ....
+ * G-mail : alimoriyan@gmail.com
+ * Pnumber : +98 910 924 0293
+ * instagram : ali_moriyan
+ * GitHub page : AliMoriyan 
+*/
